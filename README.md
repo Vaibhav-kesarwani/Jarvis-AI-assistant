@@ -1,4 +1,4 @@
-# Jarvis - Your Personal AI Assistant
+# Friday - Your Personal AI Assistant
 
 ## Description
 A Python-based AI assistant, "Jarvis," that can perform various tasks via voice and text, such as:
